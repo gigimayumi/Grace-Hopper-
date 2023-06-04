@@ -25,7 +25,7 @@
         em 1952 ela e seu time criaram o primeiro compilador para
         linguagens de coomputador.Após isso, continuou na indústria computacional.
     </center>
-    </p>
+  
     <a href="https://www.bbc.com/news/business-38677721"></a>
     <img style="" src="_93664213_gracehgettyimages-514950046.jpg">
     <h1>
