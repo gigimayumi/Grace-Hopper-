@@ -26,7 +26,7 @@
         linguagens de coomputador.Após isso, continuou na indústria computacional.
     </center>
  
-    <a href="https://www.bbc.com/news/business-38677721"></a>
+    <a href="https://www.bbc.com/news/business-38677721.jpg"></a>
     <img style="" src="_93664213_gracehgettyimages-514950046.jpg">
     <h1>
         Curiosidades
